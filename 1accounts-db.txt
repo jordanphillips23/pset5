@@ -1,9 +1,0 @@
-1000000011234123.45         Wilson, Ryan                    197101105551234567123 Main Street               Scotch Plains                 NJ07076Y
-1000000025678678.90         Smith, John                     197202115552345678123 First Avenue              Rahway                        NJ07065Y
-10000000390121234.56        Johnson, Cindy                  197303125553456789123 Second Street             Linden                        NJ07036Y
-10000000434567890.12        Black, Janet                    197404135554567890123 Ocean Avenue              Elizabeth                     NJ07091Y
-100000005789012345.67       Phelps, Michael                 197505145555678901123 Raritan Road              Westfield                     NJ07076Y
-100000006432189012.34       Lucchiani, Anthony              197606155556789012123 Third Boulevard           Mountainside                  NJ07203Y
-10000000787651.23           Ashland, Joan                   197707165557890123123 Fourth Street             Roselle                       NJ07076Y
-10000000801234.56           Young, Sharon                   197808175558901234123 St. George Lane           Summit                        NJ07901Y
-10000000909870.00           Peterson, Andrew                197909185559012345123 Lake Avenue               Clark                         NJ07066N
